@@ -28,7 +28,7 @@ Add atext for home page and about us page and for photo gallery page add image b
 
 ![output](wire1.png)
 
-> photo gallery
+>. photo gallery
 
 ![output](wire2.png)
 
